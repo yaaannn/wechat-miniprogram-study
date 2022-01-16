@@ -456,9 +456,9 @@ swiper-item:nth-child(3) .item {
 
 ### 项目成员组织结构
 
-![01](.\figures\01.png)
+![01](figures/01.png)
 
 ### 小程序开发流程
 
-![02](.\figures\02.png)
+![02](figures/02.png)
 
