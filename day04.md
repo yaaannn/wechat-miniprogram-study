@@ -372,7 +372,7 @@ Component({
 
 在自定义组件的 wxml 结构中，可以提供一个 \<slot> 节点（插槽），用于承载组件使用者提供的 wxml 结构。
 
-![](figures\08.png)
+![](figures/08.png)
 
 #### 1.9.2 单个插槽
 
